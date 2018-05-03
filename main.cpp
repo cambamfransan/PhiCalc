@@ -17,7 +17,6 @@ int main(int argc, char* argv[])
   {
     return 0;
   }
-  std::cout << number << std::endl;
   std::cout << phi::computeDigit(number+1);
 
   return 0;
